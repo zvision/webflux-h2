@@ -25,5 +25,5 @@ GET:
 - curl http://localhost:9011/router/posts     		<strong><i>Get all posts from h2 </i></strong>
 - curl http://localhost:9011/router/post/{id}		<strong><i>Get specific number of posts from h2</i></strong>
 - curl http://localhost:9011/router/posts/stream/{max} 		<strong><i>Get max number of posts as steram from h2</i></strong> 
-- curl http://localhost:9011/router/posts/delete	<strong><i>Delete all posts in h2</i></strong>
+
 <br></br> 
