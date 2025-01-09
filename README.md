@@ -23,7 +23,7 @@ At start up access the <em><u>https://jsonplaceholder.typicode.com/posts</u></em
 
 GET: 
 - curl http://localhost:9011/router/posts     		<strong><i>Get all posts from h2 </i></strong>
-- curl http://localhost:9011/router/post/{id}		<strong><i>Get specific number of posts from h2</i></strong>
-- curl http://localhost:9011/router/posts/stream/{max} 		<strong><i>Get max number of posts as steram from h2</i></strong> 
+- curl http://localhost:9011/router/post/{id}		<strong><i>Get specific post having given id from h2</i></strong>
+- curl http://localhost:9011/router/posts/stream/{max} 		<strong><i>Get max number of posts as stream from h2</i></strong> 
 
 <br></br> 
